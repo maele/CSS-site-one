@@ -1,4 +1,4 @@
 # CSS-site-one
-Landing page tutorial
+Landing page practice site
 
 <a href="https://maele.github.io/CSS-site-one/">PREVIEW LIVE</a>
